@@ -1,1 +1,1 @@
-This repo contains the code to an object tracking example where the deepsort algorithm is used to highlight and track objects. 
+This repo contains the code to an object tracking example where the deepsort algorithm is used to highlight and track objects. The assignment was a part of my Intro to Artificial Intelligence class at NYU Tandon School of Engineering.
