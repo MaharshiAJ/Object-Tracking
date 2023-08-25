@@ -1,1 +1,1 @@
-# Object-Tracking
+This repo contains the code to an object tracking example where the deepsort algorithm is used to highlight and track objects. 
